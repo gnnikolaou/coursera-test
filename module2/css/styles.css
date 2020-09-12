@@ -1,6 +1,11 @@
 * {
   box-sizing: border-box;
 }
+
+body {
+  font-family: Helvetica;
+}
+
 h1 {
   margin-bottom: 20px;
   color: black;
@@ -21,7 +26,6 @@ p {
   width: 90%;
   margin-right: auto;
   margin-left: auto;
-  font-family: Helvetica;
   color: black;
   height: 100px;
   clear: right;
