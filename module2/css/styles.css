@@ -23,6 +23,7 @@ p {
   color: black;
   height: 100px;
   clear: right;
+  padding: 5px;
 }
 
 .row {
